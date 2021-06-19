@@ -25,9 +25,6 @@ body{
   margin-top:20px;
 }
 
-.primary__button:hover{
-    border: 2px solid pink;
-}
 
 .navbar{
     display:flex;
@@ -178,9 +175,9 @@ body{
 }
 
 .updates__email{
-    border-color: #dd2476;
+    border-color: #fff;
     background-color:pink;
-    border-radius: 3px;
+    border-radius:20px;
     width: 170px;
     height: 30px;
     margin: 0 15px;
